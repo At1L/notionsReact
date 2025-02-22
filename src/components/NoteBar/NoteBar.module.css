@@ -1,0 +1,6 @@
+.noteBar{
+    background-color: #ffa31a;
+    grid-area: n;
+    height: 100%;
+    display: flex;
+}

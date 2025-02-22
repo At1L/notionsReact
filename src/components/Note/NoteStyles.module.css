@@ -1,0 +1,14 @@
+.note{
+    display: grid;
+    background-color: black;
+    color: white;
+    grid-area: c;
+}
+
+.noteName{
+    
+}
+
+.noteText{
+    
+}
