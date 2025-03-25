@@ -1,5 +1,5 @@
 .note{
-    display: grid;
+    display: block;
     background-color: black;
     color: white;
     grid-area: c;
